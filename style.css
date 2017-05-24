@@ -6,8 +6,12 @@ body {
 #main {
   background-color: rgba(50,50,50,.4);
 }
-.top-images img {
-  padding-top: 5px;
+.navbar.navbar-inverse {
+  margin-bottom: 5px;
+}
+.box2 img {
+  padding: 5px;
+  margin-bottom: 5px;
   width: 100%;
 }
 .tagline h1 {
@@ -15,4 +19,10 @@ body {
 }
 .tagline img {
   margin-top: -50px;
+}
+.panel-title {
+  font-size: 26px;
+}
+.panel-heading {
+  margin-bottom: 0px;
 }
