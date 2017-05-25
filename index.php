@@ -40,7 +40,7 @@
     </div>
     <div class="box1">
       <div class="row">
-        <div class="col-md-4">
+        <div class="col-sm-4 col-md-4">
           <div class="img-con">
             <img src="img/karazhan_1080x1080.jpg" alt="Karazhan">
             <div class="overlay"></div>
@@ -49,11 +49,11 @@
             </div>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-sm-4 col-md-4">
           <img src="img/power_leveling_1080x1080.jpg" alt="Power Leveling">
           <button type="button" class="btn-success block-button">Shop Now</button>
         </div>
-        <div class="col-md-4">
+        <div class="col-sm-4 col-md-4">
           <img src="img/karazhan_1080x1080.jpg" alt="Karazhan">
           <button type="button" class="btn-success block-button">Shop Now</button>
         </div>

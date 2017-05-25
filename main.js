@@ -1,3 +1,4 @@
-$(document).ready(fucntion {
-
+$(document).ready(function {
+  $()
 });
+function positionImgBtn()
