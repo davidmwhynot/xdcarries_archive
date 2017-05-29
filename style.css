@@ -62,8 +62,5 @@ body {
 .img-con:hover .button {
   opacity: 1;
 }
-@media (min-width: 768px) {
-  .lead {
-    font-size: 21px;
-  }
+@media (max-width: 768px) {
 }
