@@ -44,10 +44,10 @@ body {
   position: absolute;
   left:0;
   top: 0;
-  margin-top: 50%;
+  margin-top: 45%;
   width: 100%;
   text-align: center;
-  opacity: 1;
+  opacity: 0;
   transition: opacity .35s ease;
 }
 
@@ -62,5 +62,11 @@ body {
 .img-con:hover .button {
   opacity: 1;
 }
+<<<<<<< HEAD
 @media (max-width: 768px) {
+=======
+@media (max-width: 612px) {
+  .box1 img {
+    width: 75%;
+  }
 }
