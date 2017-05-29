@@ -50,12 +50,22 @@
           </div>
         </div>
         <div class="col-sm-4 col-md-4">
-          <img src="img/power_leveling_1080x1080.jpg" alt="Power Leveling">
-          <button type="button" class="btn-success block-button">Shop Now</button>
+          <div class="img-con">
+            <img src="img/karazhan_1080x1080.jpg" alt="Karazhan">
+            <div class="overlay"></div>
+            <div class="button">
+              <a class="btn btn-default btn-lg" href="#">Shop Now</a>
+            </div>
+          </div>
         </div>
         <div class="col-sm-4 col-md-4">
-          <img src="img/karazhan_1080x1080.jpg" alt="Karazhan">
-          <button type="button" class="btn-success block-button">Shop Now</button>
+          <div class="img-con">
+            <img src="img/karazhan_1080x1080.jpg" alt="Karazhan">
+            <div class="overlay"></div>
+            <div class="button">
+              <a class="btn btn-default btn-lg" href="#">Shop Now</a>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -111,16 +121,31 @@
     <div class="box1">
       <div class="row">
         <div class="col-md-4">
-          <img src="img/karazhan_1080x1080.jpg" alt="Karazhan">
-          <button type="button" class="btn-success block-button">Shop Now</button>
+          <div class="img-con">
+            <img src="img/karazhan_1080x1080.jpg" alt="Karazhan">
+            <div class="overlay"></div>
+            <div class="button">
+              <a class="btn btn-default btn-lg" href="#">Shop Now</a>
+            </div>
+          </div>
         </div>
         <div class="col-md-4">
-          <img src="img/power_leveling_1080x1080.jpg" alt="Power Leveling">
-          <button type="button" class="btn-success block-button">Shop Now</button>
+          <div class="img-con">
+            <img src="img/karazhan_1080x1080.jpg" alt="Karazhan">
+            <div class="overlay"></div>
+            <div class="button">
+              <a class="btn btn-default btn-lg" href="#">Shop Now</a>
+            </div>
+          </div>
         </div>
         <div class="col-md-4">
-          <img src="img/karazhan_1080x1080.jpg" alt="Karazhan">
-          <button type="button" class="btn-success block-button">Shop Now</button>
+          <div class="img-con">
+            <img src="img/power_leveling_1080x1080.jpg" alt="Karazhan">
+            <div class="overlay"></div>
+            <div class="button">
+              <a class="btn btn-default btn-lg" href="#">Shop Now</a>
+            </div>
+          </div>
         </div>
       </div>
     </div>
