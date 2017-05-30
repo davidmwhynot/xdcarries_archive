@@ -40,7 +40,7 @@
     </div>
     <div class="box1">
       <div class="row">
-        <div class="col-sm-4 col-md-4">
+        <div class="col-xs-6 col-sm-4 col-md-4">
           <div class="img-con">
             <img src="img/karazhan_1080x1080.jpg" alt="Karazhan">
             <div class="overlay"></div>
@@ -49,7 +49,7 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-4 col-md-4">
+        <div class="col-xs-6 col-sm-4 col-md-4">
           <div class="img-con">
             <img src="img/karazhan_1080x1080.jpg" alt="Karazhan">
             <div class="overlay"></div>
@@ -58,7 +58,7 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-4 col-md-4">
+        <div class="col-xs-6 col-sm-4 col-md-4">
           <div class="img-con">
             <img src="img/karazhan_1080x1080.jpg" alt="Karazhan">
             <div class="overlay"></div>
