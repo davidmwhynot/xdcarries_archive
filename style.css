@@ -50,6 +50,7 @@ body {
   opacity: 0;
   transition: opacity .35s ease;
 }
+
 .button a {
   text-align: center;
   z-index: 1;
@@ -61,8 +62,7 @@ body {
 .img-con:hover .button {
   opacity: 1;
 }
-@media (max-width: 613px) {
-  .img-con {
-    display: none;
+@media (max-width: 612px) {
+  .box1 img {
+    width: 75%;
   }
-}
