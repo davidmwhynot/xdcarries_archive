@@ -1,8 +1,9 @@
 /* global styles */
 body {
-  background-image: url('img/fullscreenbgillidan3.png');
+  background-image: url('img/fullscreenbgillidan.jpg');
   background-repeat: no-repeat;
   background-position: center top;
+  background-size: cover;
 }
 .row {
   margin-top: 20px;
@@ -91,6 +92,12 @@ footer li {
 }
 
 /* media queries */
+@media (max-width: 991px) {
+  body {
+    background-image: url('img/fullscreenbgillidan3.png');
+    background-size: auto;
+  }
+}
 @media (max-width: 767px) {
   .box1 {
     width: 75%;

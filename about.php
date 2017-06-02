@@ -2,12 +2,33 @@
 <div class="container panel" id="main">
   <div class="row">
     <div class="col-md-8">
-      <div class="tagline">
-        <h1 class="text-center">F.A.Q.</h1>
+      <div class="best-in-business">
+        <h1>Why is <span class="text-primary">XD</span>Carries the best in the business?</h1>
+        <div class="well">
+          <h3><span class="glyphicon glyphicon-user text-danger" aria-hidden="true"></span> The <span class="text-danger">best</span> players in the <span class="text-danger">best</span> guilds</h3>
+          <p>
+            From Limit to AK, Hardcoded Asian Subs to Storm (formed 2004), XDCarries contracts with the best in the US. It really makes a difference.</br>
+            When you play with the best, you are the best. Period.</br>
+          </p>
+          <h3><span class="glyphicon glyphicon-fast-forward text-warning" aria-hidden="true"></span> The <span class="text-warning">fastest</span> service in the game</h3>
+          <p>
+            Our competitors can take weeks to provide the service you are looking for. XDCarries delivers in <span class="text-warning">under 15 minutes</span> from when you order. Guarunteed.
+          </p>
+          <h3><span class="glyphicon glyphicon-screenshot text-info" aria-hidden="true"></span> The <span class="text-info">best</span> players in the <span class="text-info">best</span> guilds</h3>
+          <p>
+            From Limit to AK, Hardcoded Asian Subs to Storm (formed 2004), XDCarries contracts with the best in the US. It really makes a difference.</br>
+            When you play with the best, you are the best. Period.</br>
+          </p>
+          <h3><span class="glyphicon glyphicon-stats text-success" aria-hidden="true"></span> The <span class="text-success">fastest</span> service in the game</h3>
+          <p>
+            Our competitors can take weeks to provide the service you are looking for. XDCarries delivers in <span class="text-success">under 15 minutes</span> from when you order.
+          </p>
+        </div>
       </div>
+      <h1 class="text-center">F.A.Q.</h1>
       <div class="panel">
         <div class="panel-heading text-primary">
-          Q: Why am I alive?
+          Q: How does it work?
         </div>
         <div class="panel-body">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed sapien nec eros viverra convallis a in nibh. Fusce euismod convallis est vel rhoncus. Nullam mattis at urna ac vestibulum.
@@ -46,7 +67,7 @@
         </div>
       </div>
     </div>
-    <div id="right-sidebar" class="well col-md-4">
+    <div id="right-sidebar" class="container well col-md-4">
       <form class="form-horizontal" action="index.html" method="post">
         <fieldset>
           <legend>Contact Us</legend>
