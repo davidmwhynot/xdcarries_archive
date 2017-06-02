@@ -3,26 +3,29 @@
         <div class="row">
           <div class="col-sm-3">
             <div class="list-group">
-              <h5 class="list-group-item">We offer links:</h5>
-              <a href="#" class="list-group-item">Linksy</a>
-              <a href="#" class="list-group-item">Linkitty Oboy</a>
-              <a href="#" class="list-group-item">Link</a>
+              <h5 class="list-group-item">Customer Support</h5>
+              <a href="contact.php" class="list-group-item">Contact Us</a>
+              <a href="privacy.php" class="list-group-item">Privacy Policy</a>
+              <a href="refund.php" class="list-group-item">Refund Policy</a>
+              <a href="tos.php" class="list-group-item">Terms of Service</a>
             </div>
           </div>
           <div class="col-sm-3">
             <div class="list-group">
-              <h5 class="list-group-item">We offer links:</h5>
-              <a href="#" class="list-group-item">Linksy</a>
-              <a href="#" class="list-group-item">Linkitty Oboy</a>
-              <a href="#" class="list-group-item">Link</a>
+              <h5 class="list-group-item">Affiliates</h5>
+              <a href="#" class="list-group-item">OwnedCore.com</a>
+              <a href="#" class="list-group-item">EpicNPC.com</a>
+              <a href="#" class="list-group-item">WoWVendor.net</a>
+              <a href="#" class="list-group-item">BlazingBoost.com</a>
             </div>
           </div>
           <div class="col-sm-3">
             <div class="list-group">
-              <h5 class="list-group-item">We offer links:</h5>
-              <a href="#" class="list-group-item">Linksy</a>
-              <a href="#" class="list-group-item">Linkitty Oboy</a>
-              <a href="#" class="list-group-item">Link</a>
+              <h5 class="list-group-item">Payment Options</h5>
+              <span class="list-group-item">PayPal</span>
+              <span class="list-group-item">Visa</span>
+              <span class="list-group-item">MasterCard</span>
+              <span class="list-group-item">American Express</span>
             </div>
           </div>
           <div class="col-sm-3">
