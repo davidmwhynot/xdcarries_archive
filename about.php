@@ -68,13 +68,31 @@
       </div>
     </div>
     <div id="right-sidebar" class="container well col-md-4">
-      <form class="form-horizontal" action="index.html" method="post">
+      <form class="form-horizontal" action="process-form.php" method="post">
         <fieldset>
           <legend>Contact Us</legend>
           <div class="form-group">
             <label for="contact-name" class="col-md-2 control-label">Name</label>
             <div class="col-md-10">
               <input type="text" id="contact-name" class="form-control">
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="contact-email" class="col-md-2 control-label">Email</label>
+            <div class="col-md-10">
+              <input type="email" id="contact-email" class="form-control">
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="contact-message" class="col-md-2 control-label">Message</label>
+            <div class="col-md-10">
+              <textarea class="form-control" rows="5" id="contact-message"></textarea>
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="col-lg-10 col-lg-offset-2">
+              <button type="reset" class="btn btn-default">Cancel</button>
+              <button type="submit" class="btn btn-primary">Submit</button>
             </div>
           </div>
         </fieldset>

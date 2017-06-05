@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>XDCarries | Home</title>
-    <link rel="stylesheet" href="http://bootswatch.com/cyborg/bootstrap.min.css">
+    <link rel="stylesheet" href="https://bootswatch.com/cyborg/bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
