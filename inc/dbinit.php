@@ -34,8 +34,6 @@ try {
    $rowCount = $dbConn->exec("INSERT INTO `test` (`id`, `name`) VALUES (1001, 'peter')");
    // Use lastInsertId() to get the LAST_INSERT_ID of the AUTO_INCREMENT column.
 
-   $rowCount = $dbConn->exec("INSERT INTO `test` (`name`) VALUES ('paul'),('patrick')");
-
    // Use query() to run a SELECT, which returns a resultset.
    $sql = 'SELECT * FROM `test`';
    $resultset = $dbConn->query($sql);
