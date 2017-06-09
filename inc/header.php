@@ -25,7 +25,7 @@
           <ul class="nav navbar-nav">
             <li id="a-home"><a href="index.php">Home</a></li>
             <li id="a-about"><a href="about.php">About</a></li>
-            <li id="a-shop"><a href="shop.php">Shop</a></li>
+            <li id="a-shop"><a href="shop/shop-main.php">Shop</a></li>
           </ul>
           <form class="navbar-form navbar-left" role="search">
             <div class="form-group">
