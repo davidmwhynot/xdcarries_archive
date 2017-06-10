@@ -11,7 +11,7 @@
           all the best guilds will be contracted for your carry so you have
           the best experience possible.
         </p>
-         <a class="btn btn-primary btn-lg btn-block" href="shop/shop-main.php">Shop Now</a>
+         <a class="btn btn-primary btn-lg btn-block" href="shop.php">Shop Now</a>
       </div>
       <div class="col-lg-6 text-center">
         <img src="img/wowlogo_482x246.png" alt="World of Warcraft: Legion">
@@ -25,7 +25,7 @@
           <img src="img/hellfire-infernal.jpg" alt="Hellfire Infernal">
           <div class="overlay"></div>
           <div class="button">
-            <a class="btn btn-default btn-lg" href="shop/shop-main.php?hellfire-infernal">Shop Now</a>
+            <a class="btn btn-default btn-lg" href="shop.php?hellfire-infernal">Shop Now</a>
           </div>
         </div>
       </div>
@@ -34,7 +34,7 @@
           <img src="img/challenge-feltotems-fall.jpg" alt="Challenge Feltotem's Fall">
           <div class="overlay"></div>
           <div class="button">
-            <a class="btn btn-default btn-lg" href="shop/shop-main.php?feltotem">Shop Now</a>
+            <a class="btn btn-default btn-lg" href="shop.php?feltotem">Shop Now</a>
           </div>
         </div>
       </div>
@@ -43,7 +43,7 @@
           <img src="img/karazhan_1080x1080.jpg" alt="Karazhan">
           <div class="overlay"></div>
           <div class="button">
-            <a class="btn btn-default btn-lg" href="shop/shop-main.php?kara">Shop Now</a>
+            <a class="btn btn-default btn-lg" href="shop.php?kara">Shop Now</a>
           </div>
         </div>
       </div>

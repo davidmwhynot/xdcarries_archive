@@ -11,5 +11,6 @@ $(document).ready(function() {
   if(pathname.indexOf('shop-main.php') > -1) {
     console.log(pathname);
     $('#a-shop').addClass('active');
+    $('#a-shop').attr('href','shop-main.php');
   }
 });
