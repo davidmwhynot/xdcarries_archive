@@ -8,9 +8,8 @@ $(document).ready(function() {
     console.log(pathname);
     $('#a-about').addClass('active');
   }
-  if(pathname.indexOf('shop-main.php') > -1) {
+  if(pathname.indexOf('shop.php') > -1) {
     console.log(pathname);
     $('#a-shop').addClass('active');
-    $('#a-shop').attr('href','shop-main.php');
   }
 });
