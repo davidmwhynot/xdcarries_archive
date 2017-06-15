@@ -29,6 +29,14 @@
          <button type="button" class="close" data-dismiss="alert">&times;</button>
          <p>Step 1: Choose a product you want</p>
       </div>
+      <div class="alert alert-dismissible alert-warning">
+         <button type="button" class="close" data-dismiss="alert">&times;</button>
+         <p>Step 2: Add products to cart</p>
+      </div>
+      <div class="alert alert-dismissible alert-warning">
+         <button type="button" class="close" data-dismiss="alert">&times;</button>
+         <p>Step 3: Login or sign up</p>
+      </div>
    </div>
 
 </div>
