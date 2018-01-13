@@ -1,0 +1,105 @@
+/* global styles */
+body {
+  background-image: url('img/fullscreenbgillidan3.png');
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+.row {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.branding h2, a, a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* For everything not in the nav */
+#main {
+  background-color: rgba(50,50,50,.5);
+  margin-top: 50px;/*
+  margin-left: 15%;
+  margin-right: 15%;
+  padding: 15px;*/
+}
+.tagline img {
+  width: 90%;
+}
+.tagline a {
+  font-size: 40px;
+}
+.blockquote-reverse {
+  padding-right: 15px;
+  border-color: red;
+}
+
+/* Panel styling */
+.panel-title {
+  font-size: 26px;
+}
+.glyphicon.panel-glyph {
+  font-size: 20px;
+}
+.panel-heading {
+  margin-bottom: 0px;
+}
+
+/* homepage image styling */
+.box1 img {
+  width: 100%;
+}
+.img-con {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  margin-bottom: 25px;
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  color: #EEE;
+  background: rgba(0, 0, 0, 0);
+  transition: background 0.5s ease;
+}
+.button {
+  position: absolute;
+  left:0;
+  top: 0;
+  margin-top: 45%;
+  width: 100%;
+  text-align: center;
+  opacity: 0;
+  transition: opacity .35s ease;
+}
+.button a {
+  text-align: center;
+  z-index: 1;
+}
+.img-con:hover .overlay {
+  display: block;
+  background: rgba(0, 0, 0, .3);
+}
+.img-con:hover .button {
+  opacity: 1;
+}
+
+/* footer */
+footer li {
+  list-style: none;
+}
+
+/* media queries */
+@media (max-width: 767px) {
+  .box1 {
+    width: 75%;
+    margin: auto;
+  }
+  .button {
+    margin-top: 40%;
+  }
+  .tagline img {
+    width: 75%;
+  }
+}

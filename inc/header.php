@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>XDCarries | Home</title>
-    <link rel="stylesheet" href="https://bootswatch.com/cyborg/bootstrap.min.css">
+    <link rel="stylesheet" href="https://bootswatch.com/3/cyborg/bootstrap.css">
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
@@ -25,7 +25,7 @@
           <ul class="nav navbar-nav">
             <li id="a-home"><a href="index.php">Home</a></li>
             <li id="a-about"><a href="about.php">About</a></li>
-            <li id="a-shop"><a href="shop/shop-main.php">Shop</a></li>
+            <li id="a-shop"><a href="shop-main.php">Shop</a></li>
           </ul>
           <form class="navbar-form navbar-left" role="search">
             <div class="form-group">

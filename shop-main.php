@@ -1,12 +1,12 @@
 <?php
-   include "../inc/header.php";
+   include "inc/header.php";
   // include "inc/dbinit.php";
  ?>
 <div class="container panel" id="main">
    <div class="row">
      <div class="col-sm-4 col-md-4">w w
       <div class="img-con">
-         <img src="../img/hellfire-infernal.jpg" alt="Hellfire Infernal">
+         <img src="img/hellfire-infernal.jpg" alt="Hellfire Infernal">
          <div class="overlay"></div>
          <div class="button">
            <a class="btn btn-default btn-lg" href="shop/shop-main.php?hellfire-infernal">Shop Now</a>
@@ -178,4 +178,4 @@
      </div>
    </div>
 </div>
-<?php include "../inc/footer.php"; ?>
+<?php include "inc/footer.php"; ?>
